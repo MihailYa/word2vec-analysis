@@ -1,0 +1,1134 @@
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+===========================================Report start date: 09.10.2021 22:51:54Report end date: 09.10.2021 22:51:55              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+===========================================
+
+===========================================
+Report start date: 09.10.2021 22:52:43
+Report end date: 09.10.2021 22:52:44
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       0.0
+         1.0       0.00      0.00      0.00      12.0
+
+    accuracy                           0.00      12.0
+   macro avg       0.00      0.00      0.00      12.0
+weighted avg       0.00      0.00      0.00      12.0
+
+===========================================
+
+===========================================
+Report start date: 09.10.2021 22:57:45
+Report end date: 09.10.2021 22:58:35
+              precision    recall  f1-score   support
+
+         0.0       0.68      0.81      0.74     17834
+         1.0       0.30      0.17      0.22      8425
+
+    accuracy                           0.61     26259
+   macro avg       0.49      0.49      0.48     26259
+weighted avg       0.56      0.61      0.57     26259
+
+===========================================
+
+===========================================
+Report start date: 09.10.2021 23:02:50
+Report end date: 09.10.2021 23:03:34
+              precision    recall  f1-score   support
+
+         0.0       0.57      0.81      0.67      5624
+         1.0       0.46      0.21      0.29      4375
+
+    accuracy                           0.55      9999
+   macro avg       0.51      0.51      0.48      9999
+weighted avg       0.52      0.55      0.50      9999
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:08:36
+Report end date: 10.10.2021 10:09:09
+              precision    recall  f1-score   support
+
+         0.0       0.89      0.97      0.93      2057
+         1.0       0.92      0.75      0.83      1027
+
+    accuracy                           0.90      3084
+   macro avg       0.90      0.86      0.88      3084
+weighted avg       0.90      0.90      0.89      3084
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:14:47
+Report end date: 10.10.2021 10:15:22
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.96      0.88      1898
+         1.0       0.92      0.65      0.77      1248
+
+    accuracy                           0.84      3146
+   macro avg       0.87      0.81      0.82      3146
+weighted avg       0.85      0.84      0.83      3146
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:15:33
+Report end date: 10.10.2021 10:16:25
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.97      0.86      2036
+         1.0       0.92      0.53      0.67      1234
+
+    accuracy                           0.81      3270
+   macro avg       0.85      0.75      0.77      3270
+weighted avg       0.83      0.81      0.79      3270
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:17:06
+Report end date: 10.10.2021 10:17:58
+              precision    recall  f1-score   support
+
+         0.0       0.76      0.97      0.85      2031
+         1.0       0.91      0.51      0.66      1296
+
+    accuracy                           0.79      3327
+   macro avg       0.83      0.74      0.75      3327
+weighted avg       0.82      0.79      0.77      3327
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:18:15
+Report end date: 10.10.2021 10:18:52
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.98      0.86      2031
+         1.0       0.93      0.51      0.66      1187
+
+    accuracy                           0.80      3218
+   macro avg       0.85      0.74      0.76      3218
+weighted avg       0.83      0.80      0.79      3218
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:20:25
+Report end date: 10.10.2021 10:30:09
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.63      0.61      5592
+         1.0       0.47      0.43      0.45      4364
+
+    accuracy                           0.54      9956
+   macro avg       0.53      0.53      0.53      9956
+weighted avg       0.54      0.54      0.54      9956
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:41:07
+Report end date: 10.10.2021 10:43:35
+              precision    recall  f1-score   support
+
+         0.0       0.30      0.99      0.47      1305
+         1.0       0.84      0.02      0.05      3024
+
+    accuracy                           0.32      4329
+   macro avg       0.57      0.51      0.26      4329
+weighted avg       0.68      0.32      0.17      4329
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 10:55:00
+Report end date: 10.10.2021 10:58:41
+              precision    recall  f1-score   support
+
+         0.0       0.30      0.99      0.46      1286
+         1.0       0.86      0.03      0.05      3092
+
+    accuracy                           0.31      4378
+   macro avg       0.58      0.51      0.25      4378
+weighted avg       0.69      0.31      0.17      4378
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 11:43:34
+Report end date: 10.10.2021 11:51:05
+              precision    recall  f1-score   support
+
+           0       0.29      0.99      0.45      1245
+           1       0.78      0.02      0.04      3029
+
+    accuracy                           0.30      4274
+   macro avg       0.53      0.50      0.25      4274
+weighted avg       0.63      0.30      0.16      4274
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 12:04:41
+Report end date: 10.10.2021 12:05:22
+              precision    recall  f1-score   support
+
+           0       0.81      0.98      0.89      2008
+           1       0.96      0.63      0.76      1236
+
+    accuracy                           0.85      3244
+   macro avg       0.89      0.81      0.82      3244
+weighted avg       0.87      0.85      0.84      3244
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 12:05:29
+Report end date: 10.10.2021 12:06:08
+              precision    recall  f1-score   support
+
+           0       0.82      0.97      0.89      2033
+           1       0.93      0.66      0.77      1280
+
+    accuracy                           0.85      3313
+   macro avg       0.87      0.81      0.83      3313
+weighted avg       0.86      0.85      0.84      3313
+
+===========================================
+
+===========================================
+Report start date: 10.10.2021 12:07:21
+Report end date: 10.10.2021 12:07:54
+Train size limit: 80000Validation size limit: 10000Comment: Test with first five datasets              precision    recall  f1-score   support
+
+           0       0.93      0.96      0.95      2035
+           1       0.96      0.92      0.94      1836
+
+    accuracy                           0.94      3871
+   macro avg       0.94      0.94      0.94      3871
+weighted avg       0.94      0.94      0.94      3871
+
+===========================================
+
+===========================================
+Report id: e36de608-29ad-11ec-a4ce-ec8eb50e3be9
+Report start date: 10.10.2021 12:37:50
+Report end date: 10.10.2021 12:38:56
+Test parameters: <__main__.TestParameters object at 0x0000016903587EB8>
+Comment: Test with first five datasets
+              precision    recall  f1-score   support
+
+           0       0.76      0.97      0.85      2033
+           1       0.92      0.49      0.64      1241
+
+    accuracy                           0.79      3274
+   macro avg       0.84      0.73      0.75      3274
+weighted avg       0.82      0.79      0.77      3274
+
+===========================================
+
+===========================================
+Report id: a9942cd2-29ae-11ec-a78f-ec8eb50e3be9
+Report start date: 10.10.2021 12:43:54
+Report end date: 10.10.2021 12:44:28
+Test parameters:
+{
+train_size_limit=80000
+validation_size_limit=10000
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short_train_db_cache.pkl
+validation_path=short_validation_db_cache.pkl
+}
+Comment: Test with first five datasets
+              precision    recall  f1-score   support
+
+           0       0.84      0.97      0.90      2040
+           1       0.93      0.69      0.79      1234
+
+    accuracy                           0.86      3274
+   macro avg       0.88      0.83      0.84      3274
+weighted avg       0.87      0.86      0.86      3274
+
+===========================================
+
+===========================================
+ .----------------.  .----------------.  .----------------.  .----------------.
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |   ______     | || |  _________   | || |    _______   | || |  _________   | |
+| |  |_   _ \    | || | |_   ___  |  | || |   /  ___  |  | || | |  _   _  |  | |
+| |    | |_) |   | || |   | |_  \_|  | || |  |  (__ \_|  | || | |_/ | | \_|  | |
+| |    |  __'.   | || |   |  _|  _   | || |   '.___`-.   | || |     | |      | |
+| |   _| |__) |  | || |  _| |___/ |  | || |  |`\____) |  | || |    _| |_     | |
+| |  |_______/   | || | |_________|  | || |  |_______.'  | || |   |_____|    | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'
+Report id: 558f9cdc-29af-11ec-9298-ec8eb50e3be9
+Report start date: 10.10.2021 12:46:49
+Report end date: 10.10.2021 12:49:17
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=False
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      1852
+           1       0.96      0.96      0.96      1815
+
+    accuracy                           0.96      3667
+   macro avg       0.96      0.96      0.96      3667
+weighted avg       0.96      0.96      0.96      3667
+
+===========================================
+
+===========================================
+Report id: 62402388-29b1-11ec-b451-ec8eb50e3be9
+Report start date: 10.10.2021 12:50:32
+Report end date: 10.10.2021 13:03:57
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=full_train_db_cache.pkl
+validation_path=full_validation_db_cache.pkl
+}
+Comment: Test with full datasets
+              precision    recall  f1-score   support
+
+           0       0.70      0.66      0.68     17780
+           1       0.36      0.41      0.38      8385
+
+    accuracy                           0.58     26165
+   macro avg       0.53      0.54      0.53     26165
+weighted avg       0.60      0.58      0.59     26165
+
+===========================================
+
+===========================================
+Report id: 8ffce85e-29b4-11ec-818c-ec8eb50e3be9
+Report start date: 10.10.2021 13:16:01
+Report end date: 10.10.2021 13:26:43
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=FULL
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 82873Actual validation size: 26166Comment: Test with FULL datasets
+              precision    recall  f1-score   support
+
+           0       0.70      0.67      0.69     17774
+           1       0.36      0.39      0.38      8392
+
+    accuracy                           0.58     26166
+   macro avg       0.53      0.53      0.53     26166
+weighted avg       0.59      0.58      0.59     26166
+
+===========================================
+
+===========================================
+Report id: c8e488a6-29b7-11ec-9645-ec8eb50e3be9
+Report start date: 10.10.2021 13:49:12
+Report end date: 10.10.2021 13:49:46
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343Actual validation size: 3200Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.78      0.98      0.86      2022
+           1       0.93      0.52      0.66      1178
+
+    accuracy                           0.81      3200
+   macro avg       0.85      0.75      0.76      3200
+weighted avg       0.83      0.81      0.79      3200
+
+===========================================
+
+===========================================
+Report id: 056bc852-29b8-11ec-8eeb-ec8eb50e3be9
+Report start date: 10.10.2021 13:50:40
+Report end date: 10.10.2021 13:51:28
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=False
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343Actual validation size: 3864Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.94      0.96      0.95      2018
+           1       0.95      0.94      0.95      1846
+
+    accuracy                           0.95      3864
+   macro avg       0.95      0.95      0.95      3864
+weighted avg       0.95      0.95      0.95      3864
+
+===========================================
+
+===========================================
+Report id: 3ce6e2ec-29b8-11ec-b9a5-ec8eb50e3be9
+Report start date: 10.10.2021 13:52:28
+Report end date: 10.10.2021 13:53:01
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343Actual validation size: 3317Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.82      0.96      0.88      2036
+           1       0.91      0.66      0.77      1281
+
+    accuracy                           0.85      3317
+   macro avg       0.87      0.81      0.83      3317
+weighted avg       0.86      0.85      0.84      3317
+
+===========================================
+
+===========================================
+Report id: f83deb2e-29b9-11ec-be28-ec8eb50e3be9
+Report start date: 10.10.2021 14:04:48
+Report end date: 10.10.2021 14:05:25
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343
+Actual validation size: 3860
+              precision    recall  f1-score   support
+
+           0       0.94      0.96      0.95      2049
+           1       0.95      0.93      0.94      1811
+
+    accuracy                           0.95      3860
+   macro avg       0.95      0.95      0.95      3860
+weighted avg       0.95      0.95      0.95      3860
+
+===========================================
+
+===========================================
+Report id: 23211906-29ba-11ec-a6c0-ec8eb50e3be9
+Report start date: 10.10.2021 14:05:53
+Report end date: 10.10.2021 14:06:37
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=False
+train_path=short6_train_db_cache.pkl
+validation_path=short6_validation_db_cache.pkl
+}
+Actual train size: 8907
+Actual validation size: 2026
+Comment: Test with first 6 datasets
+              precision    recall  f1-score   support
+
+           0       0.59      0.84      0.69       485
+           1       0.94      0.82      0.87      1541
+
+    accuracy                           0.82      2026
+   macro avg       0.77      0.83      0.78      2026
+weighted avg       0.86      0.82      0.83      2026
+
+===========================================
+
+===========================================
+Report id: 5aa41ddc-29ba-11ec-bfd1-ec8eb50e3be9
+Report start date: 10.10.2021 14:07:29
+Report end date: 10.10.2021 14:08:10
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=True
+train_path=short6_train_db_cache.pkl
+validation_path=short6_validation_db_cache.pkl
+}
+Actual train size: 8907
+Actual validation size: 1938
+Comment: Test with first 6 datasets
+              precision    recall  f1-score   support
+
+           0       0.41      0.90      0.56       439
+           1       0.96      0.62      0.75      1499
+
+    accuracy                           0.68      1938
+   macro avg       0.68      0.76      0.66      1938
+weighted avg       0.83      0.68      0.71      1938
+
+===========================================
+
+===========================================
+Report id: 77862b52-29ba-11ec-918a-ec8eb50e3be9
+Report start date: 10.10.2021 14:08:18
+Report end date: 10.10.2021 14:08:58
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=True
+train_path=short6_train_db_cache.pkl
+validation_path=short6_validation_db_cache.pkl
+}
+Actual train size: 8907
+Actual validation size: 1625
+Comment: Test with first 6 datasets
+              precision    recall  f1-score   support
+
+           0       0.24      0.69      0.36       253
+           1       0.91      0.60      0.73      1372
+
+    accuracy                           0.62      1625
+   macro avg       0.58      0.65      0.54      1625
+weighted avg       0.81      0.62      0.67      1625
+
+===========================================
+
+===========================================
+Report id: 96f48b9e-29ba-11ec-921f-ec8eb50e3be9
+Report start date: 10.10.2021 14:09:14
+Report end date: 10.10.2021 14:09:51
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=True
+train_path=short6_train_db_cache.pkl
+validation_path=short6_validation_db_cache.pkl
+}
+Actual train size: 8907
+Actual validation size: 2018
+Comment: Test with first 6 datasets
+              precision    recall  f1-score   support
+
+           0       0.51      0.90      0.65       405
+           1       0.97      0.78      0.86      1613
+
+    accuracy                           0.80      2018
+   macro avg       0.74      0.84      0.76      2018
+weighted avg       0.88      0.80      0.82      2018
+
+===========================================
+
+===========================================
+Report id: c73ee062-29ba-11ec-88f3-ec8eb50e3be9
+Report start date: 10.10.2021 14:10:43
+Report end date: 10.10.2021 14:11:12
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343
+Actual validation size: 3021
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.84      0.97      0.90      2039
+           1       0.92      0.61      0.74       982
+
+    accuracy                           0.86      3021
+   macro avg       0.88      0.79      0.82      3021
+weighted avg       0.87      0.86      0.85      3021
+
+===========================================
+
+===========================================
+Report id: ddae17e2-29ba-11ec-83b9-ec8eb50e3be9
+Report start date: 10.10.2021 14:11:20
+Report end date: 10.10.2021 14:11:50
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343
+Actual validation size: 3829
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.94      0.96      0.95      1996
+           1       0.96      0.94      0.95      1833
+
+    accuracy                           0.95      3829
+   macro avg       0.95      0.95      0.95      3829
+weighted avg       0.95      0.95      0.95      3829
+
+===========================================
+
+===========================================
+Report id: 0ae3860a-29bb-11ec-87c0-ec8eb50e3be9
+Report start date: 10.10.2021 14:12:37
+Report end date: 10.10.2021 14:13:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343
+Actual validation size: 2912
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.89      0.97      0.93      2012
+           1       0.92      0.72      0.81       900
+
+    accuracy                           0.89      2912
+   macro avg       0.90      0.85      0.87      2912
+weighted avg       0.90      0.89      0.89      2912
+
+===========================================
+
+===========================================
+Report id: 25509410-29bb-11ec-89bb-ec8eb50e3be9
+Report start date: 10.10.2021 14:13:20
+Report end date: 10.10.2021 14:13:50
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 6343
+Actual validation size: 3873
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      2068
+           1       0.95      0.95      0.95      1805
+
+    accuracy                           0.96      3873
+   macro avg       0.95      0.95      0.95      3873
+weighted avg       0.96      0.96      0.96      3873
+
+===========================================
+
+===========================================
+Report id: 4ad8e294-29bb-11ec-be11-ec8eb50e3be9
+Report start date: 10.10.2021 14:14:27
+Report end date: 10.10.2021 14:14:53
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 1329
+Actual validation size: 993
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.35      0.91      0.50       286
+           1       0.90      0.32      0.47       707
+
+    accuracy                           0.49       993
+   macro avg       0.62      0.61      0.49       993
+weighted avg       0.74      0.49      0.48       993
+
+===========================================
+
+===========================================
+Report id: 7e63e30c-29bb-11ec-a504-ec8eb50e3be9
+Report start date: 10.10.2021 14:15:52
+Report end date: 10.10.2021 14:16:19
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 2042
+Actual validation size: 2145
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.42      0.98      0.59       849
+           1       0.91      0.11      0.19      1296
+
+    accuracy                           0.45      2145
+   macro avg       0.66      0.55      0.39      2145
+weighted avg       0.71      0.45      0.35      2145
+
+===========================================
+
+===========================================
+Report id: 91df3ed8-29bb-11ec-932c-ec8eb50e3be9
+Report start date: 10.10.2021 14:16:26
+Report end date: 10.10.2021 14:16:52
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 2420
+Actual validation size: 1395
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.72      0.97      0.83       834
+           1       0.91      0.44      0.59       561
+
+    accuracy                           0.76      1395
+   macro avg       0.82      0.70      0.71      1395
+weighted avg       0.80      0.76      0.73      1395
+
+===========================================
+
+===========================================
+Report id: a3e23b82-29bb-11ec-8be5-ec8eb50e3be9
+Report start date: 10.10.2021 14:16:57
+Report end date: 10.10.2021 14:17:22
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 1410
+Actual validation size: 630
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.16      0.59      0.25       122
+           1       0.73      0.26      0.39       508
+
+    accuracy                           0.33       630
+   macro avg       0.44      0.43      0.32       630
+weighted avg       0.62      0.33      0.36       630
+
+===========================================
+
+===========================================
+Report id: b5f0db50-29bb-11ec-af6c-ec8eb50e3be9
+Report start date: 10.10.2021 14:17:28
+Report end date: 10.10.2021 14:17:52
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 2261
+Actual validation size: 1426
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.89      0.97      0.93       948
+           1       0.93      0.77      0.84       478
+
+    accuracy                           0.90      1426
+   macro avg       0.91      0.87      0.89      1426
+weighted avg       0.91      0.90      0.90      1426
+
+===========================================
+
+===========================================
+Report id: e71632d2-29bb-11ec-be52-ec8eb50e3be9
+Report start date: 10.10.2021 14:18:49
+Report end date: 10.10.2021 14:19:15
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+}
+Actual train size: 1688
+Actual validation size: 1338
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.49      0.96      0.65       579
+           1       0.88      0.23      0.37       759
+
+    accuracy                           0.55      1338
+   macro avg       0.68      0.60      0.51      1338
+weighted avg       0.71      0.55      0.49      1338
+
+===========================================
+
+===========================================
+Report id: e2b4b358-29bd-11ec-9ce8-ec8eb50e3be9
+Report start date: 10.10.2021 14:32:58
+Report end date: 10.10.2021 14:33:27
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+}
+Actual train size: 1456
+Actual validation size: 990
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.86      0.90      0.88       507
+           1       0.89      0.84      0.86       483
+
+    accuracy                           0.87       990
+   macro avg       0.87      0.87      0.87       990
+weighted avg       0.87      0.87      0.87       990
+
+===========================================
+
+===========================================
+Report id: ea39950a-29bd-11ec-8f6a-ec8eb50e3be9
+Report start date: 10.10.2021 14:33:33
+Report end date: 10.10.2021 14:33:39
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+}
+Actual train size: 1456
+Actual validation size: 990
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.85      0.90      0.87       507
+           1       0.89      0.83      0.86       483
+
+    accuracy                           0.87       990
+   macro avg       0.87      0.87      0.87       990
+weighted avg       0.87      0.87      0.87       990
+
+===========================================
+
+===========================================
+Report id: 60235b28-29be-11ec-af1b-ec8eb50e3be9
+Report start date: 10.10.2021 14:36:51
+Report end date: 10.10.2021 14:36:57
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=False
+word2vec_cache_path=model_5.2
+}
+Actual train size: 1456
+Actual validation size: 990
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.85      0.90      0.88       507
+           1       0.89      0.84      0.86       483
+
+    accuracy                           0.87       990
+   macro avg       0.87      0.87      0.87       990
+weighted avg       0.87      0.87      0.87       990
+
+===========================================
+
+===========================================
+Report id: 6f33104c-29be-11ec-94d3-ec8eb50e3be9
+Report start date: 10.10.2021 14:37:13
+Report end date: 10.10.2021 14:37:22
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=True
+word2vec_cache_path=model_5.2
+}
+Actual train size: 6343
+Actual validation size: 3821
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      2026
+           1       0.95      0.96      0.96      1795
+
+    accuracy                           0.96      3821
+   macro avg       0.96      0.96      0.96      3821
+weighted avg       0.96      0.96      0.96      3821
+
+===========================================
+
+===========================================
+Report id: 79616b48-29be-11ec-97d1-ec8eb50e3be9
+Report start date: 10.10.2021 14:37:30
+Report end date: 10.10.2021 14:37:39
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=True
+word2vec_cache_path=model_5.2
+}
+Actual train size: 6343
+Actual validation size: 3821
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      2026
+           1       0.95      0.96      0.96      1795
+
+    accuracy                           0.96      3821
+   macro avg       0.96      0.96      0.96      3821
+weighted avg       0.96      0.96      0.96      3821
+
+===========================================
+
+===========================================
+Report id: 81a4cc76-29be-11ec-be3e-ec8eb50e3be9
+Report start date: 10.10.2021 14:37:44
+Report end date: 10.10.2021 14:37:53
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=short5_train_db_cache.pkl
+validation_path=short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=True
+word2vec_cache_path=model_5.2
+}
+Actual train size: 6343
+Actual validation size: 3821
+Comment: Test with first 5 datasets
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      2026
+           1       0.95      0.96      0.96      1795
+
+    accuracy                           0.96      3821
+   macro avg       0.96      0.96      0.96      3821
+weighted avg       0.96      0.96      0.96      3821
+
+===========================================
+
+===========================================
+Report id: b4069b1c-29be-11ec-98a8-ec8eb50e3be9
+Report start date: 10.10.2021 14:38:58
+Report end date: 10.10.2021 14:39:18
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=6
+use_cache_train_and_validation_sets=False
+train_path=short6_train_db_cache.pkl
+validation_path=short6_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=False
+word2vec_cache_path=model_5.2
+}
+Actual train size: 6884
+Actual validation size: 2647
+Comment: Test with first 6 datasets with cached from 5 datasets word2vec and kmeans
+              precision    recall  f1-score   support
+
+           0       0.76      0.96      0.85      1029
+           1       0.97      0.80      0.88      1618
+
+    accuracy                           0.87      2647
+   macro avg       0.86      0.88      0.86      2647
+weighted avg       0.89      0.87      0.87      2647
+
+===========================================
+
+===========================================
+Report id: 15dddfbe-29bf-11ec-b652-ec8eb50e3be9
+Report start date: 10.10.2021 14:39:56
+Report end date: 10.10.2021 14:42:02
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=False
+train_path=short20_train_db_cache.pkl
+validation_path=short20_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words
+reset_word2vec_cache=False
+word2vec_cache_path=model_5.2
+}
+Actual train size: 19290
+Actual validation size: 4563
+Comment: Test with first 6 datasets with cached from 5 datasets word2vec and kmeans
+              precision    recall  f1-score   support
+
+           0       0.85      0.85      0.85      2721
+           1       0.78      0.79      0.78      1842
+
+    accuracy                           0.82      4563
+   macro avg       0.82      0.82      0.82      4563
+weighted avg       0.82      0.82      0.82      4563
+
+===========================================
+
+===========================================
+Report id: bc8936e4-29bf-11ec-bde0-ec8eb50e3be9
+Report start date: 10.10.2021 14:43:14
+Report end date: 10.10.2021 14:46:42
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=True
+train_path=short20_train_db_cache.pkl
+validation_path=short20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_20
+}
+Actual train size: 31815
+Actual validation size: 8961
+Comment: Test with first 6 datasets with cached from 5 datasets word2vec and kmeans
+              precision    recall  f1-score   support
+
+           0       0.91      0.60      0.72      6841
+           1       0.38      0.81      0.52      2120
+
+    accuracy                           0.65      8961
+   macro avg       0.65      0.70      0.62      8961
+weighted avg       0.79      0.65      0.67      8961
+
+===========================================
+
