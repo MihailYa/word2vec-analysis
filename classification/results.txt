@@ -1929,3 +1929,2723 @@ weighted avg       0.95      0.95      0.95      3821
 
 ===========================================
 
+===========================================
+Report id: c0e3d872-317d-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:14:00
+Report end date: 20.10.2021 11:14:31
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 189
+Actual validation size: 21
+Comment: [afdb][word2vec_v2] Test with 5 datasets Gradient boosting
+              precision    recall  f1-score   support
+
+           0       0.63      0.92      0.75        13
+           1       0.50      0.12      0.20         8
+
+    accuracy                           0.62        21
+   macro avg       0.57      0.52      0.47        21
+weighted avg       0.58      0.62      0.54        21
+
+===========================================
+
+===========================================
+Report id: cd5ac822-317d-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:14:50
+Report end date: 20.10.2021 11:14:52
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 108
+Comment: [afdb][word2vec_v2] Test with full datasets Gradient boosting
+              precision    recall  f1-score   support
+
+           0       0.52      0.76      0.62        51
+           1       0.64      0.37      0.47        57
+
+    accuracy                           0.56       108
+   macro avg       0.58      0.57      0.54       108
+weighted avg       0.58      0.56      0.54       108
+
+===========================================
+
+===========================================
+Report id: 09e367e0-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:16:21
+Report end date: 20.10.2021 11:16:34
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 122
+Comment: [afdb][word2vec_v2] Test with full datasets Gradient boosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.64      0.47      0.54        60
+           1       0.59      0.74      0.66        62
+
+    accuracy                           0.61       122
+   macro avg       0.61      0.60      0.60       122
+weighted avg       0.61      0.61      0.60       122
+
+===========================================
+
+===========================================
+Report id: 16792f62-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:16:43
+Report end date: 20.10.2021 11:16:55
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 73
+Comment: [afdb][word2vec_v2] Test with full datasets Gradient boosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.55      0.58      0.57        36
+           1       0.57      0.54      0.56        37
+
+    accuracy                           0.56        73
+   macro avg       0.56      0.56      0.56        73
+weighted avg       0.56      0.56      0.56        73
+
+===========================================
+
+===========================================
+Report id: 2fcf077a-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:17:37
+Report end date: 20.10.2021 11:17:37
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 130
+Comment: [afdb][word2vec_v2] Test with full datasets RandomForestClassifier without scaler
+              precision    recall  f1-score   support
+
+           0       0.62      0.33      0.43        64
+           1       0.55      0.80      0.65        66
+
+    accuracy                           0.57       130
+   macro avg       0.58      0.57      0.54       130
+weighted avg       0.58      0.57      0.54       130
+
+===========================================
+
+===========================================
+Report id: 33154980-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:17:42
+Report end date: 20.10.2021 11:17:43
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 98
+Comment: [afdb][word2vec_v2] Test with full datasets RandomForestClassifier without scaler
+              precision    recall  f1-score   support
+
+           0       0.62      0.65      0.63        48
+           1       0.65      0.62      0.63        50
+
+    accuracy                           0.63        98
+   macro avg       0.63      0.63      0.63        98
+weighted avg       0.63      0.63      0.63        98
+
+===========================================
+
+===========================================
+Report id: 37c8ec34-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:17:50
+Report end date: 20.10.2021 11:17:51
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 121
+Comment: [afdb][word2vec_v2] Test with full datasets RandomForestClassifier without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.88      0.66        60
+           1       0.65      0.21      0.32        61
+
+    accuracy                           0.55       121
+   macro avg       0.59      0.55      0.49       121
+weighted avg       0.59      0.55      0.49       121
+
+===========================================
+
+===========================================
+Report id: 39db5dc2-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:17:53
+Report end date: 20.10.2021 11:17:54
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 122
+Comment: [afdb][word2vec_v2] Test with full datasets RandomForestClassifier without scaler
+              precision    recall  f1-score   support
+
+           0       0.58      0.56      0.57        59
+           1       0.60      0.62      0.61        63
+
+    accuracy                           0.59       122
+   macro avg       0.59      0.59      0.59       122
+weighted avg       0.59      0.59      0.59       122
+
+===========================================
+
+===========================================
+Report id: 3bae0dc0-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:17:57
+Report end date: 20.10.2021 11:17:57
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 130
+Comment: [afdb][word2vec_v2] Test with full datasets RandomForestClassifier without scaler
+              precision    recall  f1-score   support
+
+           0       0.57      0.40      0.47        62
+           1       0.57      0.72      0.64        68
+
+    accuracy                           0.57       130
+   macro avg       0.57      0.56      0.55       130
+weighted avg       0.57      0.57      0.56       130
+
+===========================================
+
+===========================================
+Report id: 3e44134a-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:18:01
+Report end date: 20.10.2021 11:18:02
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 83
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.50      0.68      0.57        37
+           1       0.64      0.46      0.53        46
+
+    accuracy                           0.55        83
+   macro avg       0.57      0.57      0.55        83
+weighted avg       0.58      0.55      0.55        83
+
+===========================================
+
+===========================================
+Report id: 40cc92a4-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:18:05
+Report end date: 20.10.2021 11:18:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 128
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59        63
+           1       0.58      0.49      0.53        65
+
+    accuracy                           0.56       128
+   macro avg       0.56      0.56      0.56       128
+weighted avg       0.57      0.56      0.56       128
+
+===========================================
+
+===========================================
+Report id: 587ecd22-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:18:42
+Report end date: 20.10.2021 11:18:46
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 106
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.83      0.66        54
+           1       0.61      0.27      0.37        52
+
+    accuracy                           0.56       106
+   macro avg       0.58      0.55      0.52       106
+weighted avg       0.57      0.56      0.52       106
+
+===========================================
+
+===========================================
+Report id: 5e17886e-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:18:52
+Report end date: 20.10.2021 11:18:55
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 132
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.58      0.56        65
+           1       0.56      0.52      0.54        67
+
+    accuracy                           0.55       132
+   macro avg       0.55      0.55      0.55       132
+weighted avg       0.55      0.55      0.55       132
+
+===========================================
+
+===========================================
+Report id: 6893a020-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:19:09
+Report end date: 20.10.2021 11:19:13
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.65      0.58        62
+           1       0.55      0.42      0.48        64
+
+    accuracy                           0.53       126
+   macro avg       0.54      0.53      0.53       126
+weighted avg       0.54      0.53      0.53       126
+
+===========================================
+
+===========================================
+Report id: 70fb6ebe-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:19:23
+Report end date: 20.10.2021 11:19:27
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 119
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.51      0.64      0.57        56
+           1       0.59      0.46      0.52        63
+
+    accuracy                           0.55       119
+   macro avg       0.55      0.55      0.54       119
+weighted avg       0.56      0.55      0.54       119
+
+===========================================
+
+===========================================
+Report id: 969071ec-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:20:23
+Report end date: 20.10.2021 11:20:30
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.65      0.40      0.49        60
+           1       0.60      0.80      0.68        66
+
+    accuracy                           0.61       126
+   macro avg       0.62      0.60      0.59       126
+weighted avg       0.62      0.61      0.59       126
+
+===========================================
+
+===========================================
+Report id: a2ace0c8-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:20:40
+Report end date: 20.10.2021 11:20:50
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 128
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.55      0.64      0.59        64
+           1       0.57      0.47      0.51        64
+
+    accuracy                           0.55       128
+   macro avg       0.56      0.55      0.55       128
+weighted avg       0.56      0.55      0.55       128
+
+===========================================
+
+===========================================
+Report id: ad5ba338-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:21:05
+Report end date: 20.10.2021 11:21:08
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 125
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.49      0.38      0.43        60
+           1       0.53      0.63      0.57        65
+
+    accuracy                           0.51       125
+   macro avg       0.51      0.51      0.50       125
+weighted avg       0.51      0.51      0.50       125
+
+===========================================
+
+===========================================
+Report id: b2069154-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:21:13
+Report end date: 20.10.2021 11:21:16
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 80
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.44      0.22      0.30        36
+           1       0.55      0.77      0.64        44
+
+    accuracy                           0.53        80
+   macro avg       0.50      0.50      0.47        80
+weighted avg       0.50      0.53      0.49        80
+
+===========================================
+
+===========================================
+Report id: bbfb48e4-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:21:28
+Report end date: 20.10.2021 11:21:33
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 130
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.58      0.28      0.38        64
+           1       0.54      0.80      0.64        66
+
+    accuracy                           0.55       130
+   macro avg       0.56      0.54      0.51       130
+weighted avg       0.56      0.55      0.51       130
+
+===========================================
+
+===========================================
+Report id: c2f371bc-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:21:40
+Report end date: 20.10.2021 11:21:44
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 122
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.49      0.51      0.50        61
+           1       0.49      0.48      0.48        61
+
+    accuracy                           0.49       122
+   macro avg       0.49      0.49      0.49       122
+weighted avg       0.49      0.49      0.49       122
+
+===========================================
+
+===========================================
+Report id: cc7c04a6-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:21:55
+Report end date: 20.10.2021 11:22:00
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 118
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.50      0.18      0.26        57
+           1       0.52      0.84      0.64        61
+
+    accuracy                           0.52       118
+   macro avg       0.51      0.51      0.45       118
+weighted avg       0.51      0.52      0.46       118
+
+===========================================
+
+===========================================
+Report id: d34177f8-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:22:08
+Report end date: 20.10.2021 11:22:12
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 118
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.44      0.07      0.12        57
+           1       0.51      0.92      0.66        61
+
+    accuracy                           0.51       118
+   macro avg       0.48      0.49      0.39       118
+weighted avg       0.48      0.51      0.40       118
+
+===========================================
+
+===========================================
+Report id: d7aa0562-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:22:16
+Report end date: 20.10.2021 11:22:19
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.42      0.13      0.20        62
+           1       0.50      0.83      0.62        64
+
+    accuracy                           0.48       126
+   macro avg       0.46      0.48      0.41       126
+weighted avg       0.46      0.48      0.41       126
+
+===========================================
+
+===========================================
+Report id: ef054d98-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:22:55
+Report end date: 20.10.2021 11:22:58
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        62
+           1       0.51      1.00      0.68        65
+
+    accuracy                           0.51       127
+   macro avg       0.26      0.50      0.34       127
+weighted avg       0.26      0.51      0.35       127
+
+===========================================
+
+===========================================
+Report id: f32d682e-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:23:03
+Report end date: 20.10.2021 11:23:05
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.64      0.11      0.19        61
+           1       0.53      0.94      0.68        65
+
+    accuracy                           0.54       126
+   macro avg       0.58      0.53      0.44       126
+weighted avg       0.58      0.54      0.44       126
+
+===========================================
+
+===========================================
+Report id: f780c114-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:23:10
+Report end date: 20.10.2021 11:23:12
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 73
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.50      0.17      0.26        35
+           1       0.52      0.84      0.65        38
+
+    accuracy                           0.52        73
+   macro avg       0.51      0.51      0.45        73
+weighted avg       0.51      0.52      0.46        73
+
+===========================================
+
+===========================================
+Report id: fb3f8cc2-317e-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:23:16
+Report end date: 20.10.2021 11:23:19
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.59      0.26      0.36        61
+           1       0.55      0.83      0.66        66
+
+    accuracy                           0.56       127
+   macro avg       0.57      0.55      0.51       127
+weighted avg       0.57      0.56      0.52       127
+
+===========================================
+
+===========================================
+Report id: 08ebd628-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:23:28
+Report end date: 20.10.2021 11:23:42
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 101
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.61      0.55      0.58        51
+           1       0.58      0.64      0.61        50
+
+    accuracy                           0.59       101
+   macro avg       0.60      0.59      0.59       101
+weighted avg       0.60      0.59      0.59       101
+
+===========================================
+
+===========================================
+Report id: 12f637e4-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:23:48
+Report end date: 20.10.2021 11:23:59
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.61      0.32      0.42        63
+           1       0.54      0.80      0.65        64
+
+    accuracy                           0.56       127
+   macro avg       0.57      0.56      0.53       127
+weighted avg       0.57      0.56      0.53       127
+
+===========================================
+
+===========================================
+Report id: 1baa3fe8-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:24:03
+Report end date: 20.10.2021 11:24:13
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 134
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.59      0.41      0.48        64
+           1       0.58      0.74      0.65        70
+
+    accuracy                           0.58       134
+   macro avg       0.58      0.57      0.57       134
+weighted avg       0.58      0.58      0.57       134
+
+===========================================
+
+===========================================
+Report id: 23eec82c-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:24:19
+Report end date: 20.10.2021 11:24:27
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.78      0.63        59
+           1       0.67      0.38      0.49        68
+
+    accuracy                           0.57       127
+   macro avg       0.59      0.58      0.56       127
+weighted avg       0.60      0.57      0.55       127
+
+===========================================
+
+===========================================
+Report id: 30dcaa0e-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:24:41
+Report end date: 20.10.2021 11:24:49
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=False
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.78      0.63        59
+           1       0.67      0.38      0.49        68
+
+    accuracy                           0.57       127
+   macro avg       0.59      0.58      0.56       127
+weighted avg       0.60      0.57      0.55       127
+
+===========================================
+
+===========================================
+Report id: 37b6076c-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:24:52
+Report end date: 20.10.2021 11:25:00
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=False
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.78      0.63        59
+           1       0.67      0.38      0.49        68
+
+    accuracy                           0.57       127
+   macro avg       0.59      0.58      0.56       127
+weighted avg       0.60      0.57      0.55       127
+
+===========================================
+
+===========================================
+Report id: 3e580548-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:25:03
+Report end date: 20.10.2021 11:25:11
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=False
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 127
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.78      0.63        59
+           1       0.67      0.38      0.49        68
+
+    accuracy                           0.57       127
+   macro avg       0.59      0.58      0.56       127
+weighted avg       0.60      0.57      0.55       127
+
+===========================================
+
+===========================================
+Report id: 50efefa4-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:25:42
+Report end date: 20.10.2021 11:25:43
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=False
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 17
+Actual validation size: 3
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         1
+           1       0.67      1.00      0.80         2
+
+    accuracy                           0.67         3
+   macro avg       0.33      0.50      0.40         3
+weighted avg       0.44      0.67      0.53         3
+
+===========================================
+
+===========================================
+Report id: 6c815500-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:26:17
+Report end date: 20.10.2021 11:26:29
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.74      0.63        62
+           1       0.61      0.39      0.48        64
+
+    accuracy                           0.56       126
+   macro avg       0.58      0.57      0.55       126
+weighted avg       0.58      0.56      0.55       126
+
+===========================================
+
+===========================================
+Report id: 79ef9314-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:26:40
+Report end date: 20.10.2021 11:26:51
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.74      0.63        62
+           1       0.61      0.39      0.48        64
+
+    accuracy                           0.56       126
+   macro avg       0.58      0.57      0.55       126
+weighted avg       0.58      0.56      0.55       126
+
+===========================================
+
+===========================================
+Report id: 827b4b86-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:26:54
+Report end date: 20.10.2021 11:27:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.74      0.63        62
+           1       0.61      0.39      0.48        64
+
+    accuracy                           0.56       126
+   macro avg       0.58      0.57      0.55       126
+weighted avg       0.58      0.56      0.55       126
+
+===========================================
+
+===========================================
+Report id: 8a4de148-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:27:08
+Report end date: 20.10.2021 11:27:19
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.74      0.63        62
+           1       0.61      0.39      0.48        64
+
+    accuracy                           0.56       126
+   macro avg       0.58      0.57      0.55       126
+weighted avg       0.58      0.56      0.55       126
+
+===========================================
+
+===========================================
+Report id: 940aa54a-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:27:24
+Report end date: 20.10.2021 11:27:35
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 128
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.56      0.32      0.41        62
+           1       0.54      0.76      0.63        66
+
+    accuracy                           0.55       128
+   macro avg       0.55      0.54      0.52       128
+weighted avg       0.55      0.55      0.52       128
+
+===========================================
+
+===========================================
+Report id: dc6a470a-317f-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:29:24
+Report end date: 20.10.2021 11:29:37
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 109
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.50      0.24      0.33        54
+           1       0.51      0.76      0.61        55
+
+    accuracy                           0.50       109
+   macro avg       0.50      0.50      0.47       109
+weighted avg       0.50      0.50      0.47       109
+
+===========================================
+
+===========================================
+Report id: 35557092-3180-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:31:57
+Report end date: 20.10.2021 11:32:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 126
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.46      0.48      0.47        62
+           1       0.48      0.45      0.46        64
+
+    accuracy                           0.47       126
+   macro avg       0.47      0.47      0.47       126
+weighted avg       0.47      0.47      0.47       126
+
+===========================================
+
+===========================================
+Report id: 3fe52d4a-3180-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:32:12
+Report end date: 20.10.2021 11:32:23
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 77
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.64      0.71      0.67        38
+           1       0.69      0.62      0.65        39
+
+    accuracy                           0.66        77
+   macro avg       0.66      0.66      0.66        77
+weighted avg       0.66      0.66      0.66        77
+
+===========================================
+
+===========================================
+Report id: 70336eee-3180-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:33:37
+Report end date: 20.10.2021 11:33:44
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 131
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.49      0.71      0.58        62
+           1       0.56      0.33      0.42        69
+
+    accuracy                           0.51       131
+   macro avg       0.52      0.52      0.50       131
+weighted avg       0.53      0.51      0.49       131
+
+===========================================
+
+===========================================
+Report id: bcd5060e-3180-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:35:32
+Report end date: 20.10.2021 11:35:53
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 65
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.58      0.51      0.55        35
+           1       0.50      0.57      0.53        30
+
+    accuracy                           0.54        65
+   macro avg       0.54      0.54      0.54        65
+weighted avg       0.54      0.54      0.54        65
+
+===========================================
+
+===========================================
+Report id: fd76f21c-3180-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:37:05
+Report end date: 20.10.2021 11:37:41
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 20
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.64      0.69      0.67        13
+           1       0.33      0.29      0.31         7
+
+    accuracy                           0.55        20
+   macro avg       0.49      0.49      0.49        20
+weighted avg       0.53      0.55      0.54        20
+
+===========================================
+
+===========================================
+Report id: 2c0fc0a4-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:38:20
+Report end date: 20.10.2021 11:39:00
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 439
+Actual validation size: 20
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.53      1.00      0.69         9
+           1       1.00      0.27      0.43        11
+
+    accuracy                           0.60        20
+   macro avg       0.76      0.64      0.56        20
+weighted avg       0.79      0.60      0.55        20
+
+===========================================
+
+===========================================
+Report id: 571fb72c-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:39:36
+Report end date: 20.10.2021 11:40:12
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 440
+Actual validation size: 21
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.64      0.50      0.56        14
+           1       0.30      0.43      0.35         7
+
+    accuracy                           0.48        21
+   macro avg       0.47      0.46      0.46        21
+weighted avg       0.52      0.48      0.49        21
+
+===========================================
+
+===========================================
+Report id: 74d70248-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:40:21
+Report end date: 20.10.2021 11:41:02
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 471
+Actual validation size: 18
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.92      0.83        13
+           1       0.50      0.20      0.29         5
+
+    accuracy                           0.72        18
+   macro avg       0.62      0.56      0.56        18
+weighted avg       0.68      0.72      0.68        18
+
+===========================================
+
+===========================================
+Report id: 9e4eacca-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:41:37
+Report end date: 20.10.2021 11:42:11
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 383
+Actual validation size: 7
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.80      0.80      0.80         5
+           1       0.50      0.50      0.50         2
+
+    accuracy                           0.71         7
+   macro avg       0.65      0.65      0.65         7
+weighted avg       0.71      0.71      0.71         7
+
+===========================================
+
+===========================================
+Report id: b3d18fa4-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:42:17
+Report end date: 20.10.2021 11:42:47
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 362
+Actual validation size: 22
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.58      0.79      0.67        14
+           1       0.00      0.00      0.00         8
+
+    accuracy                           0.50        22
+   macro avg       0.29      0.39      0.33        22
+weighted avg       0.37      0.50      0.42        22
+
+===========================================
+
+===========================================
+Report id: cb796712-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:42:53
+Report end date: 20.10.2021 11:43:27
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 378
+Actual validation size: 10
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.80      0.50      0.62         8
+           1       0.20      0.50      0.29         2
+
+    accuracy                           0.50        10
+   macro avg       0.50      0.50      0.45        10
+weighted avg       0.68      0.50      0.55        10
+
+===========================================
+
+===========================================
+Report id: eb709748-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:43:58
+Report end date: 20.10.2021 11:44:21
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 264
+Actual validation size: 82
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.67      0.94      0.78        54
+           1       0.50      0.11      0.18        28
+
+    accuracy                           0.66        82
+   macro avg       0.59      0.53      0.48        82
+weighted avg       0.61      0.66      0.58        82
+
+===========================================
+
+===========================================
+Report id: fd8794fe-3181-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:44:25
+Report end date: 20.10.2021 11:44:51
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 6
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       1.00      0.80      0.89         5
+           1       0.50      1.00      0.67         1
+
+    accuracy                           0.83         6
+   macro avg       0.75      0.90      0.78         6
+weighted avg       0.92      0.83      0.85         6
+
+===========================================
+
+===========================================
+Report id: 0750e30a-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:44:54
+Report end date: 20.10.2021 11:45:07
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 6
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       1.00      0.80      0.89         5
+           1       0.50      1.00      0.67         1
+
+    accuracy                           0.83         6
+   macro avg       0.75      0.90      0.78         6
+weighted avg       0.92      0.83      0.85         6
+
+===========================================
+
+===========================================
+Report id: 12ca304c-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:45:14
+Report end date: 20.10.2021 11:45:27
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 6
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       1.00      0.80      0.89         5
+           1       0.50      1.00      0.67         1
+
+    accuracy                           0.83         6
+   macro avg       0.75      0.90      0.78         6
+weighted avg       0.92      0.83      0.85         6
+
+===========================================
+
+===========================================
+Report id: 292e2014-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:45:40
+Report end date: 20.10.2021 11:46:04
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 26
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.72      0.72      0.72        18
+           1       0.38      0.38      0.38         8
+
+    accuracy                           0.62        26
+   macro avg       0.55      0.55      0.55        26
+weighted avg       0.62      0.62      0.62        26
+
+===========================================
+
+===========================================
+Report id: 3aa5a5f6-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:46:07
+Report end date: 20.10.2021 11:46:34
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 24
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.76      0.68      0.72        19
+           1       0.14      0.20      0.17         5
+
+    accuracy                           0.58        24
+   macro avg       0.45      0.44      0.44        24
+weighted avg       0.64      0.58      0.61        24
+
+===========================================
+
+===========================================
+Report id: 8079d264-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:48:05
+Report end date: 20.10.2021 11:48:31
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 26
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.76      0.80      0.78        20
+           1       0.20      0.17      0.18         6
+
+    accuracy                           0.65        26
+   macro avg       0.48      0.48      0.48        26
+weighted avg       0.63      0.65      0.64        26
+
+===========================================
+
+===========================================
+Report id: 95310b28-3182-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:48:40
+Report end date: 20.10.2021 11:49:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 12
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.83      0.62      0.71         8
+           1       0.50      0.75      0.60         4
+
+    accuracy                           0.67        12
+   macro avg       0.67      0.69      0.66        12
+weighted avg       0.72      0.67      0.68        12
+
+===========================================
+
+===========================================
+Report id: 4551d1d6-3183-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:53:28
+Report end date: 20.10.2021 11:54:01
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+===========================================
+Report id: 56e79ac0-3183-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 11:54:16
+Report end date: 20.10.2021 11:54:31
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+===========================================
+Report id: 2eecbcd8-3185-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:07:28
+Report end date: 20.10.2021 12:07:42
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+===========================================
+Report id: a241c016-3185-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:10:41
+Report end date: 20.10.2021 12:10:56
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+===========================================
+Report id: e3d7e334-3185-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:12:31
+Report end date: 20.10.2021 12:12:46
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+===========================================
+Report id: f54454ea-3185-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:13:00
+Report end date: 20.10.2021 12:13:15
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 291
+Actual validation size: 15
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        12
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.60        15
+   macro avg       0.38      0.38      0.38        15
+weighted avg       0.60      0.60      0.60        15
+
+===========================================
+
+
+
+    _   ___ ___  ___
+   /_\ | __|   \| _ )
+  / _ \| _|| |) | _ \
+ /_/ \_\_| |___/|___/
+
+===========================================
+Report id: ae2dc6b2-3186-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:18:14
+Report end date: 20.10.2021 12:18:25
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 456
+Actual validation size: 114
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.62      0.61      0.62        59
+           1       0.59      0.60      0.59        55
+
+    accuracy                           0.61       114
+   macro avg       0.60      0.61      0.60       114
+weighted avg       0.61      0.61      0.61       114
+
+===========================================
+
+===========================================
+Report id: 00865afa-3187-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:20:34
+Report end date: 20.10.2021 12:20:44
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 363
+Actual validation size: 128
+Comment: [afdb][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.61      0.58        62
+           1       0.59      0.52      0.55        66
+
+    accuracy                           0.56       128
+   macro avg       0.56      0.56      0.56       128
+weighted avg       0.57      0.56      0.56       128
+
+===========================================
+
+
+
+===========================================
+Report id: bee20d32-3187-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:25:39
+Report end date: 20.10.2021 12:26:03
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 511
+Actual validation size: 53
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.48      0.58      0.53        26
+           1       0.50      0.41      0.45        27
+
+    accuracy                           0.49        53
+   macro avg       0.49      0.49      0.49        53
+weighted avg       0.49      0.49      0.49        53
+
+===========================================
+
+
+  .--.  .----..----. .----.     .-.  .-..-. .-..-. .-----..-.
+ / {} \ } |__}} {-. \| {_} }    }  \/  {| } { |} | `-' '-'{ |
+/  /\  \} '_} } '-} /| {_} }    | {  } |\ `-' /} '--.} {  | }
+`-'  `-'`--'  `----' `----'     `-'  `-' `---' `----'`-'  `-'
+
+===========================================
+Report id: cad9d9de-3188-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:32:53
+Report end date: 20.10.2021 12:33:33
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 329
+Actual validation size: 218
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.48      0.27      0.35       102
+           1       0.49      0.74      0.59       107
+           2       0.00      0.00      0.00         5
+           3       0.00      0.00      0.00         4
+
+    accuracy                           0.49       218
+   macro avg       0.24      0.25      0.24       218
+weighted avg       0.47      0.49      0.45       218
+
+===========================================
+
+===========================================
+Report id: f2d41b84-3188-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:34:23
+Report end date: 20.10.2021 12:34:40
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 318
+Actual validation size: 220
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.52      0.84      0.64       108
+           1       0.61      0.24      0.35       112
+
+    accuracy                           0.54       220
+   macro avg       0.57      0.54      0.49       220
+weighted avg       0.57      0.54      0.49       220
+
+===========================================
+
+  .--.  .----..----. .----.     .-.  .-..-. .-..-. .-----..-.
+ / {} \ } |__}} {-. \| {_} }    }  \/  {| } { |} | `-' '-'{ |
+/  /\  \} '_} } '-} /| {_} }    | {  } |\ `-' /} '--.} {  | }
+`-'  `-'`--'  `----' `----'     `-'  `-' `---' `----'`-'  `-'
+
+===========================================
+Report id: 04399804-3189-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:34:46
+Report end date: 20.10.2021 12:35:09
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 462
+Actual validation size: 110
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.61      0.59      0.60        56
+           1       0.59      0.61      0.60        54
+
+    accuracy                           0.60       110
+   macro avg       0.60      0.60      0.60       110
+weighted avg       0.60      0.60      0.60       110
+
+===========================================
+
+===========================================
+Report id: 57072b14-3189-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:37:16
+Report end date: 20.10.2021 12:37:28
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 478
+Actual validation size: 99
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.54      0.30      0.38        47
+           1       0.55      0.77      0.64        52
+
+    accuracy                           0.55        99
+   macro avg       0.54      0.53      0.51        99
+weighted avg       0.54      0.55      0.52        99
+
+===========================================
+
+===========================================
+Report id: 678dfd46-3189-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:37:47
+Report end date: 20.10.2021 12:37:55
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=False
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 409
+Actual validation size: 144
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.59      0.55      0.57        80
+           1       0.48      0.52      0.50        64
+
+    accuracy                           0.53       144
+   macro avg       0.53      0.53      0.53       144
+weighted avg       0.54      0.53      0.54       144
+
+===========================================
+
+===========================================
+Report id: 6dd0ad98-3189-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:37:59
+Report end date: 20.10.2021 12:38:06
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 409
+Actual validation size: 143
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.55      0.71      0.62        72
+           1       0.58      0.41      0.48        71
+
+    accuracy                           0.56       143
+   macro avg       0.56      0.56      0.55       143
+weighted avg       0.56      0.56      0.55       143
+
+===========================================
+
+===========================================
+Report id: 7692d78a-3189-11ec-9603-1e00ea02297a
+Report start date: 20.10.2021 12:38:11
+Report end date: 20.10.2021 12:38:21
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=afdb_v2_short5_train_db_cache.pkl
+validation_path=afdb_v2_short5_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=afdb_v2_beats2words_short5
+reset_word2vec_cache=True
+word2vec_cache_path=afdb_v2_word2vec_short5.pkl
+}
+Actual train size: 409
+Actual validation size: 104
+Comment: [afdb][multi][word2vec_v2] Test with full datasets GradientBoosting without scaler
+              precision    recall  f1-score   support
+
+           0       0.53      0.63      0.58        57
+           1       0.42      0.32      0.36        47
+
+    accuracy                           0.49       104
+   macro avg       0.47      0.48      0.47       104
+weighted avg       0.48      0.49      0.48       104
+
+===========================================
+
+===========================================
+Report id: 047bcb2a-318e-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:06:21
+Report end date: 20.10.2021 13:10:57
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=5
+use_cache_train_and_validation_sets=True
+train_path=multi20_train_db_cache.pkl
+validation_path=multi20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_multi20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_multi20.pkl
+}
+Actual train size: 80927
+Actual validation size: 27433
+Comment: Test with 20 datasets
+              precision    recall  f1-score   support
+
+           0       0.73      0.89      0.80     19219
+           1       0.05      0.00      0.00      3874
+           2       0.01      0.00      0.00      1605
+           3       0.02      0.00      0.00       522
+           4       0.13      0.24      0.17      1468
+           5       0.00      0.00      0.00       745
+           6       0.00      0.00      0.00         0
+           7       0.00      0.00      0.00         0
+
+    accuracy                           0.64     27433
+   macro avg       0.12      0.14      0.12     27433
+weighted avg       0.53      0.64      0.57     27433
+
+===========================================
+
+===========================================
+Report id: 74020fc2-318e-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:12:45
+Report end date: 20.10.2021 13:14:04
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=False
+train_path=tmulti20_train_db_cache.pkl
+validation_path=tmulti20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_tmulti20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_tmulti20.pkl
+}
+Actual train size: 30684
+Actual validation size: 9836
+Comment: Test with 20 datasets
+              precision    recall  f1-score   support
+
+           0       0.50      0.76      0.61      5036
+           1       0.00      0.00      0.00      3922
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         2
+           4       0.68      0.06      0.11       874
+           5       0.00      0.00      0.00         2
+           6       0.00      0.00      0.00         0
+           7       0.00      0.00      0.00         0
+
+    accuracy                           0.40      9836
+   macro avg       0.15      0.10      0.09      9836
+weighted avg       0.32      0.40      0.32      9836
+
+===========================================
+
+===========================================
+Report id: d3eaaa8e-318e-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:15:24
+Report end date: 20.10.2021 13:16:45
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=False
+train_path=tmulti20_train_db_cache.pkl
+validation_path=tmulti20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_tmulti20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_tmulti20.pkl
+}
+Actual train size: 30684
+Actual validation size: 10418
+Comment: Test with 20 datasets
+              precision    recall  f1-score   support
+
+           0       0.55      0.94      0.69      5362
+           1       0.00      0.00      0.00      4177
+           2       0.00      0.00      0.00         0
+           3       0.00      0.00      0.00         2
+           4       0.53      0.05      0.08       875
+           5       0.00      0.00      0.00         2
+           6       0.00      0.00      0.00         0
+           7       0.00      0.00      0.00         0
+
+    accuracy                           0.49     10418
+   macro avg       0.14      0.12      0.10     10418
+weighted avg       0.33      0.49      0.36     10418
+
+===========================================
+
+===========================================
+Report id: 51cd5c94-318f-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:19:18
+Report end date: 20.10.2021 13:20:16
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=False
+train_path=tmulti20_train_db_cache.pkl
+validation_path=tmulti20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_tmulti20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_tmulti20.pkl
+}
+Actual train size: 25060
+Actual validation size: 7784
+Comment: Test with 20 datasets
+              precision    recall  f1-score   support
+
+           0       0.70      0.86      0.77      5543
+           1       0.33      0.00      0.01      2089
+           2       0.10      0.62      0.17       152
+
+    accuracy                           0.62      7784
+   macro avg       0.38      0.49      0.31      7784
+weighted avg       0.59      0.62      0.55      7784
+
+===========================================
+
+===========================================
+Report id: 7bdd9af8-318f-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:20:36
+Report end date: 20.10.2021 13:21:26
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=20
+use_cache_train_and_validation_sets=True
+train_path=tmulti20_train_db_cache.pkl
+validation_path=tmulti20_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_tmulti20
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_tmulti20.pkl
+}
+Actual train size: 25060
+Actual validation size: 7549
+Comment: Test with 20 datasets
+              precision    recall  f1-score   support
+
+           0       0.71      0.84      0.77      5331
+           1       0.59      0.04      0.08      2069
+           2       0.09      0.65      0.16       149
+
+    accuracy                           0.62      7549
+   macro avg       0.46      0.51      0.34      7549
+weighted avg       0.66      0.62      0.57      7549
+
+===========================================
+
+===========================================
+Report id: e0eece3c-3192-11ec-90df-1e00ea02297a
+Report start date: 20.10.2021 13:22:26
+Report end date: 20.10.2021 13:45:45
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=tmulti_train_db_cache.pkl
+validation_path=tmulti_validation_db_cache.pkl
+reset_beats2words_cache=True
+beats2words_cache_path=beats2words_tmulti
+reset_word2vec_cache=True
+word2vec_cache_path=word2vec_tmulti.pkl
+}
+Actual train size: 73562
+Actual validation size: 26670
+Comment: Test with full datasets
+              precision    recall  f1-score   support
+
+           0       0.73      0.89      0.80     19001
+           1       0.08      0.03      0.04      1988
+           2       0.13      0.02      0.03      3362
+           3       0.01      0.00      0.01       621
+           4       0.42      0.48      0.45      1667
+           5       0.02      0.13      0.03        31
+
+    accuracy                           0.67     26670
+   macro avg       0.23      0.26      0.23     26670
+weighted avg       0.57      0.67      0.61     26670
+
+===========================================
+
+===========================================
+Report id: 4a40bc66-3197-11ec-a8c0-1e00ea022979
+Report start date: 20.10.2021 14:00:21
+Report end date: 20.10.2021 14:17:19
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=tmulti_train_db_cache.pkl
+validation_path=tmulti_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words_tmulti
+reset_word2vec_cache=False
+word2vec_cache_path=word2vec_tmulti.pkl
+}
+Actual train size: 73562
+Actual validation size: 26670
+Comment: [GradientBoosting] Test with full datasets
+              precision    recall  f1-score   support
+
+           0       0.72      0.95      0.82     19001
+           1       0.12      0.02      0.04      1988
+           2       0.11      0.01      0.02      3362
+           3       0.01      0.00      0.01       621
+           4       0.43      0.17      0.25      1667
+           5       0.00      0.00      0.00        31
+
+    accuracy                           0.69     26670
+   macro avg       0.23      0.19      0.19     26670
+weighted avg       0.56      0.69      0.60     26670
+
+===========================================
+
+===========================================
+Report id: 759c4e6c-319b-11ec-a8c0-1e00ea022979
+Report start date: 20.10.2021 14:32:48
+Report end date: 20.10.2021 14:47:10
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=cl3_tmulti_train_db_cache.pkl
+validation_path=cl3_tmulti3_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words_cl3_tmulti
+reset_word2vec_cache=False
+word2vec_cache_path=word2vec_cl3_tmulti.pkl
+}
+Actual train size: 71556
+Actual validation size: 25181
+Comment: [GradientBoosting] Test with full datasets
+              precision    recall  f1-score   support
+
+           0       0.69      0.99      0.81     17007
+           1       0.00      0.00      0.00         0
+           2       0.14      0.00      0.00      5460
+           3       0.76      0.21      0.33      2714
+
+    accuracy                           0.69     25181
+   macro avg       0.40      0.30      0.29     25181
+weighted avg       0.58      0.69      0.59     25181
+
+===========================================
+
+===========================================
+Report id: 1d5c4bae-319f-11ec-a8c0-1e00ea022979
+Report start date: 20.10.2021 15:01:30
+Report end date: 20.10.2021 15:13:20
+Test parameters:
+{
+train_size_limit=None
+validation_size_limit=None
+base_data_sets_count_limit=None
+use_cache_train_and_validation_sets=True
+train_path=cl3_tmulti_train_db_cache.pkl
+validation_path=cl3_tmulti3_validation_db_cache.pkl
+reset_beats2words_cache=False
+beats2words_cache_path=beats2words_cl3_tmulti
+reset_word2vec_cache=False
+word2vec_cache_path=word2vec_cl3_tmulti.pkl
+}
+Actual train size: 71556
+Actual validation size: 25181
+Comment: [GradientBoosting] Test with full datasets
+              precision    recall  f1-score   support
+
+           0       0.69      0.99      0.81     17007
+           1       0.00      0.00      0.00         0
+           2       0.14      0.00      0.00      5460
+           3       0.76      0.21      0.33      2714
+
+    accuracy                           0.69     25181
+   macro avg       0.40      0.30      0.29     25181
+weighted avg       0.58      0.69      0.59     25181
+
+===========================================
+
